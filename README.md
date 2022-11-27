@@ -8,7 +8,7 @@ The result of my project is a text based adventure game that allows the user to 
 
 ## Example Product
 
-![Screenshot 2022-11-27 153134](https://user-images.githubusercontent.com/90478060/204158775-d79e9c01-6ff2-4b5d-96af-ca311bcad0df.jpg | width = 200)
+![Screenshot 2022-11-27 153134](https://user-images.githubusercontent.com/90478060/204158775-d79e9c01-6ff2-4b5d-96af-ca311bcad0df.jpg)
 
 ## Issues & What I Learned
 
