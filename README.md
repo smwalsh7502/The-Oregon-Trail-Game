@@ -16,4 +16,4 @@ Some issues that I ran into frequently in the project revolved around passing to
 
 ## Author
 
-Samantha Walsh - smwalsh7502@eagle.fgcu.edu
+Samantha Walsh - smwalsh7502@eagle.fgcu.edu - www.linkedin.com/in/sam-mwalsh
