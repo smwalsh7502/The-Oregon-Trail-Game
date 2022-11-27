@@ -371,7 +371,7 @@ def general_store(local_month, local_funds, local_oxen, local_food,
                   local_amount):
     date = datetime.datetime(1848, local_month + 2, 1)
     print("-" * 150)
-    print("\nMatt's General Store \nIndependence, Missouri")
+    print("\nLou's General Store \nIndependence, Missouri")
     print(date.strftime("%B %d, %Y\n"))  # Date/Time ---> Source #13
     print("Items Available:         Amount spent per item:")
     print(" 1. Oxen                 $" + format(local_oxen, '.2f'))
