@@ -31,6 +31,7 @@
 ###############################################################################
 
 # Importing the time and datetime modules (Source 6)
+# Third-Party Libraries have been checked for security issues and are up-to-date
 import time
 import datetime
 from threading import Timer
