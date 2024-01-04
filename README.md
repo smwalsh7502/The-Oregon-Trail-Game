@@ -1,10 +1,10 @@
 # The Oregon Trail Game
 
 ## Purpose
-In my Intro to Programming class, our instructor requested we make a project showing all of our knowledge of Python in one place. I decided to recreate the Oregon Trail Game! 
+In my Intro to Programming class back in 2021, our instructor requested we make a project showing all of our knowledge of Python in one place. I decided to recreate the Oregon Trail Game! This project is how I fell in love with coding.
 
 ## Description
-The result of my project is a text based adventure game that allows the user to play "The Oregon Trail". This game shows the basics of coding that I learned in COP 1500 which includes but is not limited to: creating variables, naming variables appropriately, boolean operators, creating functions, parameters, parameter passing, and arguably most imporant - readability! 
+The result of my project is a text based adventure game that allows the user to play "The Oregon Trail". This game shows the basics of coding that I learned in COP 1500 which includes but is not limited to: creating variables, naming variables appropriately, boolean operators, creating functions, parameters, and parameter passing.
 
 ## Example Product
 
